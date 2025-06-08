@@ -1,1 +1,1 @@
-# llmops_course
+# This is mlops course, not llmops one.
